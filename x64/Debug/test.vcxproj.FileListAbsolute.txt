@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\pc\test\x64\Debug\test.vcxproj.CopyComplete
+C:\Users\user\Desktop\pc\test\x64\Debug\test.exe
+C:\Users\user\Desktop\pc\test\x64\Debug\sqlite3.dll
+C:\Users\user\Desktop\pc\test\x64\Debug\fmtd.dll
